@@ -1,2 +1,2 @@
 # Ucak-oyunu
-Scrstch il yapılan bir Uçak oyunu
+Scratch il yapılan bir Uçak oyunu
